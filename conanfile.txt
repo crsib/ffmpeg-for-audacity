@@ -1,6 +1,9 @@
 [requires]
 ffmpeg/5.0
 
+[build_requires]
+pkgconf/1.7.4
+
 [options]
 ffmpeg:shared=True
 ffmpeg:avdevice=False
