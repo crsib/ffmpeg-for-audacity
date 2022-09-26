@@ -1,0 +1,10 @@
+include(default)
+[settings]
+os=Macos
+os_build=Macos
+arch=x86_64
+build_type=Release
+[options]
+[conf]
+[build_requires]
+[env]
